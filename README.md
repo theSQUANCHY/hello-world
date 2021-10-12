@@ -1,5 +1,4 @@
 # hello-world
-First Repository
 
 Greetings fellow sentients!
 
